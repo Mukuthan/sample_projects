@@ -1,1 +1,1 @@
-hello this is an empty folder
+this is an empty folder
